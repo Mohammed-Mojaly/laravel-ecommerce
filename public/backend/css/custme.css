@@ -1,0 +1,26 @@
+    @media (max-width: 768px) {
+    .btn_filter {
+        width:100%;
+    }
+	button{
+		width:100%;
+	}
+}
+
+.main-panel{
+	background:black;;
+}
+.card{
+	border:none;
+}
+.card .card-body{
+	background:black;
+}
+
+.card .card-body .card-header{
+	background:#191c24;
+}
+
+.card .card-body .card-body{
+	background:#191c24;
+}

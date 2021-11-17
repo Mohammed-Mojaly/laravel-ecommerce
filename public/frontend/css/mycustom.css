@@ -1,0 +1,111 @@
+#MydivStyle{
+
+        background:#dcb14a;
+        border-radius:5px;
+    }
+	
+	
+@media (max-width: 768px){
+        .mdiv{
+        padding: 27px;
+   }
+   .custome_head{
+	   margin-top:3rem;
+   }
+   
+   button,#accountlink{
+	   width:100%;
+   }
+   
+   #mylogo{
+	 position: relative;
+    right: 35%;
+	font-size:17px;
+   }
+   .nav_mobile{
+	  right: 2% !important;
+	  
+    top: 1rem !important;
+   }
+   
+   .cutome_li{
+	   margin-right: 10px;
+   }
+   .custom_notifi{
+	 position: relative;
+    right: 2%;
+    top: 5px;
+   }
+   #myspan{
+	  display: contents !important;
+   }
+   
+ 
+}
+
+
+.custome_preview{
+		background: #0000009e;
+		height: 100%;
+	
+}
+.custome_preview button{
+		position: relative;
+		top: 50%;
+		left: 40%;
+		padding: 10px;
+	}
+.spinner-border{
+	width: 8rem;
+	height: 8rem;
+	color:#f3c454;
+}
+
+#btn_full_width{
+	width:100%;
+}
+
+
+.fa-stack[data-count]:after{
+  position:absolute;
+  right:0%;
+  top:1%;
+  content: attr(data-count);
+  font-size:50%;
+  padding:.6em;
+  border-radius:999px;
+  line-height:.75em;
+  color: white;
+  background:rgba(255,0,0,.85);
+  text-align:center;
+  min-width:2em;
+  font-weight:bold;
+}
+
+.dropdown-menu-header {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    background: #f9bf02;
+    color: #FFF;
+    font-weight: bold;
+
+}
+     .dropdown-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-width:300px;
+    white-space: inherit;
+	border-bottom: 1px solid rgba(0,0,0,.15);
+}
+
+.dropdown-item:last-child {
+	border-bottom: none;
+}
+
+#notifi_link{
+    cursor: pointer;
+}
+#notifi_link:hover{
+    color: #f9bf02
+}
