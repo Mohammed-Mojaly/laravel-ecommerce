@@ -20,13 +20,13 @@ Features :
 
 **[Demo](https://m-commerce.ml)**
 
-Admin account 
-
+### Admin account
+ 
 username: admin
 
 password: 123456789
 
-resources:
+### resources:
 
 **[FrontEnd Template](https://bootstrapious.com/p/boutique-bootstrap-e-commerce-template)**
 
