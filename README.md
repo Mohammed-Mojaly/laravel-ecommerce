@@ -21,11 +21,16 @@ Features :
 **[Demo](https://m-commerce.ml)**
 
 Admin account 
+
 username: admin
+
 password: 123456789
 
 resources:
+
 **[FrontEnd Template](https://bootstrapious.com/p/boutique-bootstrap-e-commerce-template)**
+
 **[Admin Dashboard](https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template)**
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mohammed-Mojaly/laravel-ecommerce/master/admin.jpg"></p>
