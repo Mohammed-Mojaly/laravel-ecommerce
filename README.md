@@ -1,10 +1,10 @@
 ## Laravel ecommerce
 
-Online store built with several technologies Livewire, AlpineJs, Bootstrap, Laravel
+Online store built with several technologies Laravel,Livewire,AlpineJs,Bootstrap
 
 Features :
 
- -Permissions system
+-Permissions system
 
 -Authentication system for users
 
