@@ -25,7 +25,9 @@ Features :
 ### Admin account
 
 username: admin
+
 password: 123456789
+
 **[Dashboard](https://mcommerce.mohammedmojaly.me/admin/login)**
 
 ### resources:
