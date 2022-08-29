@@ -20,13 +20,13 @@ Features :
 
 ### Demo
 
-**[Demo](https://m-commerce.ml)**
+**[Demo](https://mcommerce.mohammedmojaly.me)**
 
 ### Admin account
- 
-username: admin
 
+username: admin
 password: 123456789
+**[Dashboard](https://mcommerce.mohammedmojaly.me/admin/login)**
 
 ### resources:
 
